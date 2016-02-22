@@ -1,5 +1,4 @@
-# 2-22-Semantic-Web
-2 ideas to be connected
+# Semantic Web
+2 things that should be connected but aren't
 
-
-My idea is to create a line of communication to deal with the water shortage in California. Maybe a system be implemented where the amount of water necessary to maintain a homeowner's lawn be communicated to the city's water management system. 
+Most mordern cars have a computer screen that has a GPS, radio, etc. Instead of having this being part of the car, we should be able to plug our phones in to the dashboard. It doesn't allow us to text, but it will go through Bluetooth so we can still make phone calls. We can play music through it, as well. We can use our GPS on our phone. 
